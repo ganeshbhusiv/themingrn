@@ -1,6 +1,9 @@
-# Foobar
+# React Native Theming
 
-Theming in React Native
+Themes allow you to change the colors of various components provided by React Navigation. You can use themes to:
+
+Customize the colors match your brand
+Provide light and dark themes based on the time of the day or user preference
 
 ## Installation
 
